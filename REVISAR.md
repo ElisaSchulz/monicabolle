@@ -7,7 +7,7 @@
 - [ ] Links de compra dos livros (Amazon/Intrínseca), se quiser
 
 ## Fatos para conferir (vieram de buscas públicas; alguns sites não puderam ser abertos)
-- [ ] Nome atual da newsletter no Substack ("Pensando Alto" / "Here's a Thought") e seções
+- [x] Newsletter: "Here’s a Thought | Pensando Alto" (@bolle), 22K+ assinantes (confirmado; atualizar o número de tempos em tempos)
 - [x] Canal do YouTube: youtube.com/@MonicadeBolle (confirmado)
 - [ ] Livro *Ruptura* (Intrínseca, 2020) e série *A Pilha de Areia*
 - [ ] *O futuro da indústria no Brasil* (com Edmar Bacha) — editora/ano

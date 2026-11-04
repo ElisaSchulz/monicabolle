@@ -1,14 +1,14 @@
 # Antes de enviar para a Monica
 
 ## Links que faltam (marcados com `href="#"` e `data-todo` no HTML)
-- [ ] Canal do WhatsApp (index.html e links.html)
+- [x] Canal do WhatsApp (index.html e links.html)
 - [ ] Contato para imprensa/palestras (index.html, seção Trajetória)
 - [ ] Link direto do podcast *Policy for the Planet* (hoje aponta para o perfil no PIIE)
 - [ ] Links de compra dos livros (Amazon/Intrínseca), se quiser
 
 ## Fatos para conferir (vieram de buscas públicas; alguns sites não puderam ser abertos)
 - [ ] Nome atual da newsletter no Substack ("Pensando Alto" / "Here's a Thought") e seções
-- [ ] Canal do YouTube: youtube.com/channel/UCWWCnzBwz2zqH7TgKD0EeSQ — confirmar que é o oficial e ainda ativo
+- [x] Canal do YouTube: youtube.com/@MonicadeBolle (confirmado)
 - [ ] Livro *Ruptura* (Intrínseca, 2020) e série *A Pilha de Areia*
 - [ ] *O futuro da indústria no Brasil* (com Edmar Bacha) — editora/ano
 - [ ] "Finalista do Prêmio Jabuti" para *Como matar a borboleta-azul*

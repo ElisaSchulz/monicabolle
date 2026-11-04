@@ -3,7 +3,7 @@
 ## Links que faltam (marcados com `href="#"` e `data-todo` no HTML)
 - [x] Canal do WhatsApp (index.html e links.html)
 - [ ] Contato para imprensa/palestras (index.html, seção Trajetória)
-- [ ] Link direto do podcast *Policy for the Planet* (hoje aponta para o perfil no PIIE)
+- [x] Link direto do podcast *Policy for the Planet* (hoje aponta para o perfil no PIIE)
 - [ ] Links de compra dos livros (Amazon/Intrínseca), se quiser
 
 ## Fatos para conferir (vieram de buscas públicas; alguns sites não puderam ser abertos)
